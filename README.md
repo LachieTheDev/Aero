@@ -25,41 +25,16 @@
 - [x] High Quality Music
 - [x] Advanced Features
 - [x] Great Commands To Make Users Experience Better
+- [x] 24/7
+- [ ] Slash Commands
+- [ ] Customizable Prefix
 
-
-<!-- INSTALL -->
-## 🚀 Installation
- You can add ALi to your server with [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
-```
-git clone https://github.com/brblacky/ALi.git
-```
-After cloning, run an
-```
-npm install
-```
-* Start the bot with `node index.js`
-
-to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
-<!-- CONFIGURATION -->
-
-## ⚙️ Configuration
-
-Change `example.env` to `.env` and fill out the values in: `.env` 
-```json
-
-DISCORD_TOKEN=  `The Discord Bot Token, get one at https://discord.com/developers/applications`
-
-COOKIE=  `The youtube Cooke, for Multiple guild`
-
-MONGO_URI= `The Mongo URI, if you want to use the database-reliant features`
-
-```
 
 <!-- ABOUT THE PROJECT -->
 
 ## 🌀 About
 
-ALi is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/uAVaeCP9VH) for all questions, suggestions, and assistance!
+Aero is an advanced discord music bot made for everyone, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/uAVaeCP9VH) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
