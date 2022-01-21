@@ -18,6 +18,8 @@
     <a href="https://discord.gg/shtMdyphkH">Support Server</a>
   </p>
 </p>
+
+<!-- FEATURES -->
 ## 🎭 Features
 
 - [x] High Quality Music
