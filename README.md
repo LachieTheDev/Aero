@@ -34,16 +34,10 @@
 
 ## 🌀 About
 
-Aero is an advanced discord music bot made for everyone, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/uAVaeCP9VH) for all questions, suggestions, and assistance!
+Aero is an advanced discord bot that is capable of playing high quality music. Aero has advanced music filters and commands which makes the user’s listening experience clear and enjoyable. Aero uses slash commands, however, users who do not want to use slash commands can also use the “a/“ prefix. Commands include search, loop, pause, play, and nowplaying and much more. To see the full list of commands users are able to use the “help” command. Using the 247 command, users (specifically the owners or admins of the server) are able to allow the bot to stay in any Voice Channel 24/7. Aero is still growing and more fun commands are being developed for the bot to be even more enjoyable for it’s users. You can invite him to your Discord server by clicking [here](https://discord.com/api/oauth2/authorize?client_id=912627846999052328&permissions=36768832&scope=applications.commands%20bot)! You can also join the [support server](https://discord.gg/shtMdyphkH) by clicking [here](https://discord.gg/shtMdyphkH)!
 
-If you liked this repository, feel free to leave a star ⭐ to help promote !
 
-## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
-[Support Server](https://discord.gg/gfcv94hDhv) - Ali's Support Server Invite
-:----:
-
-## 👥 TEAMS ##
+## 👥 TEAM ##
 <div align="left">
 <table>
   <tr>
