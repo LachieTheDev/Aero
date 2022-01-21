@@ -1,13 +1,13 @@
 # Privacy Policy
-This Privacy Policy contains the data OxyBoat collects and what its used for.
+This file contains everything you need to know about what Aero collects and how its used.
 
-## What We Collect
-- User IDs: Used to store profiles, voting rewards and premium/pro features.
-- Server IDs: Used to store server options such as custom prefixes, and setup channels.
-- Submitted data. This includes user and server options, and stored playlists.
+## What Data We Collect
+- Customizable Data: We keep all customizable data kept in a secure database, this includes user & server settings, and saved playlists.
+- Server Data: We keep track of your server IDs to store server settings which include custom prefixs and setup channels.
+- User Data: Used to store the bot users (to keep track of who uses our bot), user data is deleted monthly to keep your profile safe & secure.
 
 ## How We Use The Data
-The data is used to make the bot functional and customizable. Without this data custom prefixes, profiles, playlists and more would not be supported. We will not share or sell user's data to any 3rd party companies or individuals. 
+The information is utilised to make the bot more functional and adaptable. Custom prefixes, profiles, playlists, and other features would not be possible without this information. We shall not share or sell the personal information of our users to any third-party companies or people.
 
-## Concerns
-If you have concerns regarding the data we collect or you would like to delete your data please join the [support server](https://discord.gg/dBaajGuTue) or contact `Blacky#6618` And `Venom#9718` on Discord.
+## Concerns & reports
+If you have any concerns or reports regarding the data we collect or you would like to delete your data please join the [support server](https://discord.gg/shtMdyphkH) and/or contact `lachie#2814` on Discord.
