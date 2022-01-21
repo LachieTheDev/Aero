@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/ALi">
-    <img src="https://media.discordapp.net/attachments/841728122633715743/867392701997908008/uwp1269208-01.jpeg" alt="Pbot-plus" width="200" height="200">
+  <a href="https://github.com/LachieTheDev/Aero">
+    <img src="https://images-ext-2.discordapp.net/external/3DUJ6O-CgRrNO95gd4cgeUNqcwQM4OpZVrbGCbSdjnA/%3Fwidth%3D676%26height%3D676/https/images-ext-1.discordapp.net/external/tYnYsmmolyqbbSEqLEvbq32TiL58j_sPK04IXbR8mHg/%253Fsize%253D4096/https/cdn.discordapp.com/avatars/923086366252888064/e5f0bb4a4b00fece15c362edee197509.png?width=468&height=468" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Aero</h3>
@@ -16,17 +16,13 @@
     <a href="https://discord.com/api/oauth2/authorize?client_id=912627846999052328&permissions=36768832&scope=applications.commands%20bot">Invite Aero</a>
     ·
     <a href="https://discord.gg/shtMdyphkH">Support Server</a>
-    ·
   </p>
 </p>
 ## 🎭 Features
 
-- [x] Music
-- [x] Moderation
-- [x] Fun
-- [x] Economy
-- [x] Utility
-- [x] More
+- [x] High Quality Music
+- [x] Advanced Features
+- [x] Great Commands To Make Users Experience Better
 
 
 <!-- INSTALL -->
