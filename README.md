@@ -72,9 +72,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 <div align="left">
 <table>
   <tr>
-     <td align="center"><a href="https://discord.com/users/491577179495333903"><img src="https://cdn.discordapp.com/avatars/491577179495333903/a_3f79ff04ec2e9fd68bb0f80401bd817a.gif?size=256&f=.gif?size=512" width="100px;" alt="Blacky"/><br /><sub><b>blacky</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Owner">👑</a></td>
-     <td align="center"><a href="https://discord.com/users/767393101241122826"><img src="https://cdn.discordapp.com/avatars/767393101241122826/09703f8931666b4fa31e9027356dd34b.webp?size=512" width="100px;" alt="Venom"/><br /><sub><b>Venom</b></sub></a><br /><a href="https://discord.com/users/767393101241122826" title="Owner">👑</a></td>
-     <td align="center"><a href="https://discord.com/users/801478547893387345"><img src="https://images-ext-2.discordapp.net/external/Ab_zdnwJJqBcA3Mml0FlZuge8NyD1betW1W4j7rUxg4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/801478547893387345/a_87c088c38a7531d4bc55e3df0cf0939c.gif" width="100px;" alt="Raaz"/><br /><sub><b>Raaz</b></sub></a><br /><a href="https://discord.com/users/801478547893387345" title="Owner">👑</a></td>
+     <td align="center"><a href="https://discord.com/users/761900724996276227"><img src="https://images-ext-1.discordapp.net/external/sk3f8y_lQLF2JEVD2dzCBOrXpeOSVtwlykvL-20ybgw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/761900724996276227/a_3d836c5deca1cbc6c15d6765b820c667.gif" width="100px;" alt="Blacky"/><br /><sub><b>blacky</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Owner">👑</a></td>
     
   </tr>
 </table>
