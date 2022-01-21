@@ -1,3 +1,5 @@
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aero&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -11,11 +13,10 @@
     ALi a powerful Discord Bot
     <br />
     <br />
-    <a href="https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot">Invite ALi</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=912627846999052328&permissions=36768832&scope=applications.commands%20bot">Invite Aero</a>
     ·
-    <a href="https://github.com/brblacky/ALi/issues">Report Bug</a>
+    <a href="https://discord.gg/shtMdyphkH">Support Server</a>
     ·
-    <a href="https://github.com/brblacky/ALi/issues">Request Feature</a>
   </p>
 </p>
 
