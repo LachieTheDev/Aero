@@ -26,8 +26,8 @@
 - [x] Advanced Features
 - [x] Great Commands To Make Users Experience Better
 - [x] 24/7
-- [ ] Slash Commands
-- [ ] Customizable Prefix
+- [x] Slash Commands
+- [x] Customizable Prefix
 
 
 <!-- ABOUT THE PROJECT -->
@@ -47,7 +47,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 <div align="left">
 <table>
   <tr>
-     <td align="center"><a href="https://discord.com/users/761900724996276227"><img src="https://images-ext-1.discordapp.net/external/sk3f8y_lQLF2JEVD2dzCBOrXpeOSVtwlykvL-20ybgw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/761900724996276227/a_3d836c5deca1cbc6c15d6765b820c667.gif" width="100px;" alt="lachie"/><br /><sub><b>blacky</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Developer">👑</a></td>
+     <td align="center"><a href="https://discord.com/users/761900724996276227"><img src="https://images-ext-1.discordapp.net/external/sk3f8y_lQLF2JEVD2dzCBOrXpeOSVtwlykvL-20ybgw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/761900724996276227/a_3d836c5deca1cbc6c15d6765b820c667.gif" width="100px;" alt="lachie"/><br /><sub><b>lachie</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Developer">👑</a></td>
     
   </tr>
 </table>
